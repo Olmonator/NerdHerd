@@ -5,4 +5,4 @@ Undecided whether to go for a side scroller or top view approach.
 
 ## Work log
 
-(Work log)[https://docs.google.com/spreadsheets/d/1LxSq_ZOggmhQWHfpaoUsxjR2epnuiVWzyrKxqkDwm2c/edit?usp=drivesdk]
+[Work log](https://docs.google.com/spreadsheets/d/1LxSq_ZOggmhQWHfpaoUsxjR2epnuiVWzyrKxqkDwm2c/edit?usp=drivesdk)
